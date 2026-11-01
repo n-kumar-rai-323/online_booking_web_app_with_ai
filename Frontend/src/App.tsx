@@ -1,6 +1,9 @@
+import AuthRouter from "./Config/Authrouter";
+
 function App() {
   return (<>
-    <h1>Auth App</h1>
+    
+    <AuthRouter />
   </>)
 }
 
