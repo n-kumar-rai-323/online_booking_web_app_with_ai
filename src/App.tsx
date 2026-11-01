@@ -1,7 +1,7 @@
+import AppRoutes from "./config/routes";
+
 function App(){
-  return (<>
-  <h1>Auth App</h1>
-  </>)
+  return <AppRoutes/>
 }
 
 export default App;

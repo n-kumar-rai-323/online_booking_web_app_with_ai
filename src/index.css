@@ -1,8 +1,17 @@
 :root {
     color-scheme: light;
-    --background: #05305a;
+    --background: #ffffff;
     --foreground: #0f172a;
     --card: #ffffff;
+    --primary: #e94302;
+    --muted-foreground: #64748b;
+    --primary-forground: #ffffff;
+    --primary-hover: #1d4ed8;
+
+
+
+    --radius: 10px;
+    --radius-sm: calc(var(--radius) * 0.6)
 }
 
 *,
