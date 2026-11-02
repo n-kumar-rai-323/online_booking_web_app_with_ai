@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Paths } from "../Config/paths";
+import "./Notfound.css"
 
 function Notfound(){
     return (<>
